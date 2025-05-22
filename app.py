@@ -17,17 +17,17 @@ import asyncio
 import edge_tts
 
 st.set_page_config(
-    page_title=" askme Assistant",
+    page_title=" Your Assistant",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="auto",
-    menu_items={"About": about(), "Get Help":"https://www.linkedin.com/in/hir-patel-155608274/"}, 
+    menu_items={"About": about(), "Get Help":"https://www.linkedin.com/in/vaishalipandey11/"}, 
 )
 
 ###--- Title ---###
 st.markdown("""
     <h1 style='text-align: center;'>
-        <span style='color: #b774f2;'>okay</span> 
+        <span style='color: #b774f2;'>Your </span> 
         <span style='color: #f5f8fc;'>Assistant</span>
     </h1>
 """, unsafe_allow_html=True)

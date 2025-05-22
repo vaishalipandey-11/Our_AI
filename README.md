@@ -36,7 +36,7 @@ Just input a URL, and the app will provide a markdown summary!
 
 **Step 1: Clone the Repository:**
 ```bash
-git clone https://github.com/HIRU1920/AI-Assistant
+git clone https://github.com/vaishalipandey-11/Our_AI
 cd  AI-Assistant-App
 ```
 
